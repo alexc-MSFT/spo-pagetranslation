@@ -9,6 +9,8 @@ At the time of writing, only 'Text' Web Part content and Web Part titles are tra
 
 This solution is a proof of concept to demonstrate the art of the possible and may require further changes before it is used in a Production environment. 
 
+A single user Power Automate premium plan is required to use this solution due to the use of the HTTP connector. 
+
 ## Getting Started
 
 Begin with the [Solution Overview](https://github.com/alexc-MSFT/spo-pagetranslation/wiki/Solution-Overview) to read more about the solution and how it works.
