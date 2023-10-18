@@ -11,6 +11,12 @@ This solution is a proof of concept to demonstrate the art of the possible and m
 
 A single user Power Automate premium plan is required to use this solution due to the use of the HTTP connector. 
 
+![SharePoint page copy ready for translation](https://github.com/alexc-MSFT/spo-pagetranslation/assets/12395485/18e51e19-2a00-4e3c-87c4-4a41e6595810)
+
+![SharePoint page automatically translated](https://github.com/alexc-MSFT/spo-pagetranslation/assets/12395485/3ca2d276-c59d-4658-9060-6650e103c2d1)
+
+![Page translation processing list](https://github.com/alexc-MSFT/spo-pagetranslation/assets/12395485/d639f878-8e15-4683-97cb-bba6d5e0ad2b)
+
 ## Getting Started
 
 Begin with the [Solution Overview](https://github.com/alexc-MSFT/spo-pagetranslation/wiki/Solution-Overview) to read more about the solution and how it works.
